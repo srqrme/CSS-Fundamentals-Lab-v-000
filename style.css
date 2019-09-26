@@ -23,7 +23,7 @@ nav a {
 }
 
 section#featured-property p {
-  display: inline;
+  display: inline-block;
   width: 800px;
   text-align: center;
 }
