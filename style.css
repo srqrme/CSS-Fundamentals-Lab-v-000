@@ -14,13 +14,13 @@ img {
   margin-right: auto;
 }
 
-figcaption {
-  text-align: center;
-  font-size 11pt;
-}
-
 nav a {
   padding-left: 10px;
   padding-right: 10px;
   background-color: grey;
+}
+
+figcaption {
+  text-align: center;
+  font-size 11pt;
 }
