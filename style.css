@@ -30,5 +30,5 @@ nav a {
 
 #details, div {
   display: block;
-  
+  float: left;
 }
