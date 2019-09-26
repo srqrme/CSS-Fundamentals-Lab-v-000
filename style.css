@@ -25,5 +25,5 @@ nav a {
 section#featured-property p {
   display: inline-block;
   width: 800px;
-  align: center;
+  text-align: center;
 }
