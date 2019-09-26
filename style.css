@@ -28,8 +28,10 @@ nav a {
   text-align: center;
 }
 
-#details div{
+#details div {
   display: block;
   float: left;
   text-align: center;
+  width: 25%;
+  background-color: red;
 }
