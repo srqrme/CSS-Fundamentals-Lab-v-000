@@ -22,8 +22,8 @@ nav a {
   background-color: grey;
 }
 
-section#featured-property p {
-  display: inline-block;
+#featured-property p {
+  margin: 0 auto;
   width: 800px;
   text-align: center;
 }
